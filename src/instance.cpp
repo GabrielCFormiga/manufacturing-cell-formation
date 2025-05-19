@@ -4,7 +4,7 @@
 #include <iomanip>
 #include <iostream>
 
-Instance::Instance(std::filesystem::path &instance_file_path) : m_num_parts(0), m_num_machines(0) {
+Instance::Instance(std::filesystem::path &instance_file_path) : m_num_parts(0), m_num_machines(0), m_n1(0) {
     std::ifstream file(instance_file_path);
     if (!file.is_open()) {
         throw std::runtime_error("Failed to open instance file");
@@ -32,6 +32,7 @@ Instance::Instance(std::filesystem::path &instance_file_path) : m_num_parts(0), 
             part = line[j] - '0';
             part--;
             m_matrix[(part * m_num_machines) + i] = true;
+            m_n1++;
         }
     }
     
@@ -42,6 +43,7 @@ void Instance::print() const {
     std::cout << "Instance: " << m_name << "\n";
     std::cout << "Number of parts: " << m_num_parts << "\n";
     std::cout << "Number of machines: " << m_num_machines << "\n";
+    std::cout << "Total number of 1's in matrix: " << m_n1 << "\n";
     std::cout << "Utilization matrix:\n";
 
     for (size_t i = 0; i < m_num_parts; ++i) {

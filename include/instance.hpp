@@ -2,14 +2,15 @@
 #define INSTANCE_HPP
 
 #include <cstddef>
-#include <cstdint>
 #include <filesystem>
 #include <vector>
+#include <string>
 
 class Instance {
 private:
     size_t m_num_parts;
     size_t m_num_machines;
+    size_t m_n1;
     std::vector<bool> m_matrix;
     std::string m_name;
     
