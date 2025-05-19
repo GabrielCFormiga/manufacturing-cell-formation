@@ -1,0 +1,13 @@
+# Chan and Milner (1982)
+# m = 7 p = 5
+# Grouping Efficacy  = 0.8889, Exact solution
+# Constraints:
+# - singletons are allowed
+# - residual cells are allowed
+# Solution format:
+# cell_1(cluster_1) rows - cell_1(cluster_1) columns
+# cell_2(cluster_2) rows - cell_2(cluster_2) columns
+# .....
+
+1  2  4  6 - 2  5  3
+3  5  7 - 1  4

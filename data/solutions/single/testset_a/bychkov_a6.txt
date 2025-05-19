@@ -1,0 +1,16 @@
+# Kusiak and Chow(1987)
+# m = 7 p = 11
+# Grouping Efficacy  = 0.6087, Exact solution
+# Constraints:
+# - singletons are allowed
+# - residual cells are not allowed
+# Solution format:
+# cell_1(cluster_1) rows - cell_1(cluster_1) columns
+# cell_2(cluster_2) rows - cell_2(cluster_2) columns
+# .....
+
+1 - 2  7
+2  5 - 5
+3 - 11
+4  7 - 3  6
+6 - 1  4  8  9  10

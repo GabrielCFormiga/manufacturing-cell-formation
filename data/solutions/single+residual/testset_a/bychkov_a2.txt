@@ -1,0 +1,13 @@
+# Waghodekar and Sahu(1984)[Problem-2]
+# m = 5 p = 7
+# Grouping Efficacy  = 0.6957, Exact solution
+# Constraints:
+# - residual cells are allowed
+# - singletons are allowed
+# Solution format:
+# cell_1(cluster_1) rows - cell_1(cluster_1) columns
+# cell_2(cluster_2) rows - cell_2(cluster_2) columns
+# .....
+
+1 - 1  6  7
+2  3  4  5 - 2  3  4  5

@@ -1,0 +1,16 @@
+# Won and Kim(1997)
+# m = 7 p = 10
+# Instance format:
+# machines_number parts_number
+# machine1 part_to_be_processed_1 part_to_be_processed_2 ...
+# machine2 part_to_be_processed_1 part_to_be_processed_2 ...
+# ...
+
+7 10
+1 2 7
+2 1 6 10
+3 4 5 7 8 9
+4 1 6 8 10
+5 2 3 7 10
+6 4 5 8 9
+7 4 5 8 

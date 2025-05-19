@@ -1,0 +1,14 @@
+# Parkin and Li (1997)
+# m = 6 p = 7
+# Grouping Efficacy  = 0.7222, Exact solution
+# Constraints:
+# - singletons are allowed
+# - residual cells are allowed
+# Solution format:
+# cell_1(cluster_1) rows - cell_1(cluster_1) columns
+# cell_2(cluster_2) rows - cell_2(cluster_2) columns
+# .....
+
+1  5 - 2
+2  3 - 4  5  7
+4  6 - 1  3  6

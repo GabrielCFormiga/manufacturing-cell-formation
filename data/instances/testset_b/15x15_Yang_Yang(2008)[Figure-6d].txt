@@ -1,0 +1,24 @@
+# Yang and Yang(2008) - Figure 6d
+# m = 15 p = 15
+# Instance format:
+# machines_number parts_number
+# machine1 part_to_be_processed_1 part_to_be_processed_2 ...
+# machine2 part_to_be_processed_1 part_to_be_processed_2 ...
+# ...
+
+15 15
+1 10 12 15
+2 2 3 4 9
+3 1 7 8 11 
+4 2 3 9 13
+5 3 5 6
+6 6 14
+7 5 6 14
+8 2 3 12 13
+9 2 3 9 13
+10 6 10 12
+11 5 14 15
+12 3 9 13 14
+13 1 4 7 8
+14 10 11 12 15
+15 4 5 6 14

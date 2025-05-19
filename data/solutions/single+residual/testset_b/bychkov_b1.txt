@@ -1,0 +1,13 @@
+# Adil(1996)
+# m = 6 p = 6
+# Grouping Efficacy  = 0.8095, Exact solution
+# Constraints:
+# - singletons are allowed
+# - residual cells are allowed
+# Solution format:
+# cell_1(cluster_1) rows - cell_1(cluster_1) columns
+# cell_2(cluster_2) rows - cell_2(cluster_2) columns
+# .....
+
+1  4  5 - 1  3  5
+2  3  6 - 2  4  6

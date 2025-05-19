@@ -1,0 +1,16 @@
+# Chan and Milner (1982)
+# m = 7 p = 5
+# Instance format:
+# machines_number parts_number
+# machine1 part_to_be_processed_1 part_to_be_processed_2 ...
+# machine2 part_to_be_processed_1 part_to_be_processed_2 ...
+# ...
+
+7 5
+1 2 5
+2 2 3
+3 1 4
+4 2 3 5
+5 1 4
+6 2 3 5
+7 1 4

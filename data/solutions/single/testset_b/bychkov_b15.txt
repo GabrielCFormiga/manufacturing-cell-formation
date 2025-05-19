@@ -1,0 +1,15 @@
+# Won and Kim(1997)
+# m = 11 p = 10
+# Grouping Efficacy  = 0.8333, Exact solution
+# Constraints:
+# - singletons are allowed
+# - residual cells are not allowed
+# Solution format:
+# cell_1(cluster_1) rows - cell_1(cluster_1) columns
+# cell_2(cluster_2) rows - cell_2(cluster_2) columns
+# .....
+
+1  3  5 - 2  3  5
+2  8  10 - 1  6  7
+4  6  7 - 4  9
+9  11 - 8  10

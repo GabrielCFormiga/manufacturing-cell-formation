@@ -1,0 +1,14 @@
+# Zolfaghari and Liang(2002)
+# m = 7 p = 8
+# Grouping Efficacy  = 0.7391, Exact solution
+# Constraints:
+# - singletons are allowed
+# - residual cells are allowed
+# Solution format:
+# cell_1(cluster_1) rows - cell_1(cluster_1) columns
+# cell_2(cluster_2) rows - cell_2(cluster_2) columns
+# .....
+
+1  5 - 1  5  7
+2  6 - 3  6
+3  4  7 - 2  4  8

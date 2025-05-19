@@ -1,0 +1,17 @@
+# Nair(1999)
+# m = 8 p = 10
+# Instance format:
+# machines_number parts_number
+# machine1 part_to_be_processed_1 part_to_be_processed_2 ...
+# machine2 part_to_be_processed_1 part_to_be_processed_2 ...
+# ...
+
+8 10
+1 2 3 8 10
+2 1 5 7 9 10
+3 1 5 7 9
+4 2 4 6 10
+5 2 4 6
+6 1 4 5 6
+7 2 3 6 8 10
+8 3 8 10

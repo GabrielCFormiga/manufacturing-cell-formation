@@ -1,0 +1,21 @@
+# Seifoddini and Djassemi(1996)
+# m = 35 p = 15
+# Grouping Efficacy  = 0.5745, Exact solution
+# Constraints:
+# - singletons are allowed
+# - residual cells are allowed
+# Solution format:
+# cell_1(cluster_1) rows - cell_1(cluster_1) columns
+# cell_2(cluster_2) rows - cell_2(cluster_2) columns
+# .....
+
+1  19 - 6  11
+2  20  24  31 - 1  4
+3  8  23 - 13
+4  11  33 - 10
+5  7  12  15  28  29  34 - 9  15
+6  14  17 - 14
+9  13  18  21  30  32 - 2  12  7
+10  27  35 - 3
+16  22  26 - 5  8
+25 - EMPTY

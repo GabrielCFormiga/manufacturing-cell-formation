@@ -1,0 +1,16 @@
+# Boe and Cheng(1991)
+# m = 20 p = 35
+# Grouping Efficacy  = 0.5798, Exact solution
+# Constraints:
+# - singletons are allowed
+# - residual cells are not allowed
+# Solution format:
+# cell_1(cluster_1) rows - cell_1(cluster_1) columns
+# cell_2(cluster_2) rows - cell_2(cluster_2) columns
+# .....
+
+1 - 18  25  34  35  16  33
+2  4  13  14  18 - 2  10  12  13  24  27  31  7
+3  7  8  17 - 1  3  5  15  29  17  20
+5  6  9  10  20 - 14  23  26  8  19  22
+11  12  15  16  19 - 4  6  9  28  30  32  11  21

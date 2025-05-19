@@ -1,0 +1,16 @@
+# Zolfaghari and Liang(2002)
+# m = 7 p = 8
+# Instance format:
+# machines_number parts_number
+# machine1 part_to_be_processed_1 part_to_be_processed_2 ...
+# machine2 part_to_be_processed_1 part_to_be_processed_2 ...
+# ...
+
+7 8
+1 1 5 7
+2 3 6
+3 1 2 4 7
+4 2 4 8
+5 1 5 7
+6 3 6
+7 1 2 7 8

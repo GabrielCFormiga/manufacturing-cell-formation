@@ -1,0 +1,16 @@
+# Moon and Chi(1992)
+# m = 12 p = 19
+# Grouping Efficacy  = 0.6842, Exact solution
+# Constraints:
+# - singletons are allowed
+# - residual cells are allowed
+# Solution format:
+# cell_1(cluster_1) rows - cell_1(cluster_1) columns
+# cell_2(cluster_2) rows - cell_2(cluster_2) columns
+# .....
+
+1  5  6 - 6  8  12  18  15
+4  8 - 1  4  13  14  16
+9  12 - 3  7  11  19
+10  11 - 2  9  10  17  5
+2  3  7 - EMPTY

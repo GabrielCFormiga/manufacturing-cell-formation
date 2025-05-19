@@ -1,0 +1,29 @@
+# King and Nakornchai(1982)
+# m = 30 p = 90
+# Grouping Efficacy  = 0.4800, Heuristic solution
+# Constraints:
+# - singletons are allowed
+# - residual cells are not allowed
+# Solution format:
+# cell_1(cluster_1) rows - cell_1(cluster_1) columns
+# cell_2(cluster_2) rows - cell_2(cluster_2) columns
+# .....
+
+1 - 16  34  50
+2  23 - 45
+3  14 - 24  44  59  65  67  71  87  89
+4 - 4  23  38  48  52  74
+5  15  30 - 81  85
+6 - 35
+7  25  27 - 11  28  36  39  41  10  12  49  61
+8 - 75
+9  11  17  19  21  24 - 40  56  64  76  77  8  15  21  22  51  68  73  88  90
+10 - 18
+12  16 - 86  62
+13 - 82
+18 - 26
+20 - 2  17  42  63  78
+22 - 20  30  33  83
+26  28 - 3  5  6  7  9  13  19  25  27  29  31  37  43  46  54  58  60  69  72  79  84  1  70
+29 - 14  32  47  53  55  57  66  80
+

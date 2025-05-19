@@ -1,0 +1,15 @@
+# Sandbothe(1998) 
+# m = 20 p = 10
+# Grouping Efficacy  = 0.7600, Exact solution
+# Constraints:
+# - singletons are allowed
+# - residual cells are not allowed
+# Solution format:
+# cell_1(cluster_1) rows - cell_1(cluster_1) columns
+# cell_2(cluster_2) rows - cell_2(cluster_2) columns
+# .....
+
+1  2  3  4  5 - 1
+6  7  8  9  10  14  15 - 2  3  4
+11  12  13 - 5  6  7  8  9
+16  17  18  19  20 - 10

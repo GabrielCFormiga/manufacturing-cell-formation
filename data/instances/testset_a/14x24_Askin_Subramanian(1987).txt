@@ -1,0 +1,23 @@
+# Askin and Subramanian(1987)
+# m = 14 p = 24
+# Instance format:
+# machines_number parts_number
+# machine1 part_to_be_processed_1 part_to_be_processed_2 ...
+# machine2 part_to_be_processed_1 part_to_be_processed_2 ...
+# ...
+
+14 24
+1 7 8
+2 4 5
+3 4 5 21
+4 2 3 17 19 20 23
+5 2 3 17 20 23
+6 1 10 11 12 14 15 16
+7 2 3 8 17 20
+8 1 6 10 12 14 15 16
+9 6 10 12 13 15
+10 4 24
+11 4 5 21
+12 8 9
+13 7 8 9 18 23
+14 10 11 13 15

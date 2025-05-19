@@ -1,0 +1,14 @@
+# Waghodekar and Sahu(1984)[Problem-2]
+# m = 5 p = 7
+# Instance format:
+# machines_number parts_number
+# machine1 part_to_be_processed_1 part_to_be_processed_2 ...
+# machine2 part_to_be_processed_1 part_to_be_processed_2 ...
+# ...
+
+5 7
+1 1 5 6 7
+2 2 3 4 5
+3 3 4 5 6
+4 1 2 3 4
+5 2 4 5 6

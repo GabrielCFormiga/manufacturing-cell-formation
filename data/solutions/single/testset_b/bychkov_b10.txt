@@ -1,0 +1,14 @@
+# Islam and Sarker(2000)
+# m = 8 p = 10
+# Grouping Efficacy  = 0.9000, Exact solution
+# Constraints:
+# - singletons are allowed
+# - residual cells are not allowed
+# Solution format:
+# cell_1(cluster_1) rows - cell_1(cluster_1) columns
+# cell_2(cluster_2) rows - cell_2(cluster_2) columns
+# .....
+
+1  6 - 3  7
+2  5  7 - 1  4  6  8
+3  4  8 - 2  5  9  10

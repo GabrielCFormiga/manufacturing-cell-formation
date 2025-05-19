@@ -1,0 +1,14 @@
+# Viswanathan (1996)
+# m = 10 p = 12
+# Grouping Efficacy  = 0.5962, Exact solution
+# Constraints:
+# - singletons are allowed
+# - residual cells are not allowed
+# Solution format:
+# cell_1(cluster_1) rows - cell_1(cluster_1) columns
+# cell_2(cluster_2) rows - cell_2(cluster_2) columns
+# .....
+
+1  6  8  10 - 4  5  8  11  12  10
+2  3  7 - 6  7  9
+4  5  9 - 1  2  3

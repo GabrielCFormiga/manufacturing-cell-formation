@@ -1,0 +1,16 @@
+# Mosier and Taube(1985a)
+# m = 10 p = 10
+# Grouping Efficacy  = 0.7500, Exact solution
+# Constraints:
+# - residual cells are allowed
+# - singletons are allowed
+# Solution format:
+# cell_1(cluster_1) rows - cell_1(cluster_1) columns
+# cell_2(cluster_2) rows - cell_2(cluster_2) columns
+# .....
+
+1 - 1  4
+2  3  4  8 - 9  10  2  7
+5 - 3
+6  9 - 8
+7  10 - 5  6

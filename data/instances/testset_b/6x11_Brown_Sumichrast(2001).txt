@@ -1,0 +1,15 @@
+# Brown and Sumichrast (2001)
+# m = 6 p = 11
+# Instance format:
+# machines_number parts_number
+# machine1 part_to_be_processed_1 part_to_be_processed_2 ...
+# machine2 part_to_be_processed_1 part_to_be_processed_2 ...
+# ...
+
+6 11
+1 2 4 6 10
+2 2 3 5 7 
+3 3 8 9 10 11
+4 3 4 6 9 11
+5 1 5 10
+6 1 4 7

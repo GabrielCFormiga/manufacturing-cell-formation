@@ -1,0 +1,19 @@
+# Shargal et al.(1995) 
+# m = 10 p = 38
+# Instance format:
+# machines_number parts_number
+# machine1 part_to_be_processed_1 part_to_be_processed_2 ...
+# machine2 part_to_be_processed_1 part_to_be_processed_2 ...
+# ...
+
+10 38
+1 1 16 34
+2 1 18 27 34 37
+3 2 4 9 14 15 18 20 21 34 36 37
+4 2 3 9 17 19 20 22 24 25 28 29 31 36 38
+5 3 5 7 8 11 12 17 19 23 24 29 38
+6 4 8 32 33 35
+7 5 6 10 11 12 13 16 21 22 25 26 28 30 31 35
+8 6 10 13 14 15 22 25 26 28 30 31 
+9 7 8 23 27
+10 9 32 33 36

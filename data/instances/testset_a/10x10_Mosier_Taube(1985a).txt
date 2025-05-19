@@ -1,0 +1,19 @@
+# Mosier and Taube(1985a)
+# m = 10 p = 10
+# Instance format:
+# machines_number parts_number
+# machine1 part_to_be_processed_1 part_to_be_processed_2 ...
+# machine2 part_to_be_processed_1 part_to_be_processed_2 ...
+# ...
+
+10 10
+1 1 4 6
+2 9 10
+3 2 7 9 10
+4 2 9 10
+5 3
+6 3 8
+7 5 6
+8 2 7 9
+9 8
+10 1 5 6

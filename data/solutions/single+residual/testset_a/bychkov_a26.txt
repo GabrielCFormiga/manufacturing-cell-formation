@@ -1,0 +1,23 @@
+# Chandrasekharan and Rajagopalan(1989) - Dataset 6
+# m = 24 p = 40
+# Grouping Efficacy  = 0.4895, Exact solution
+# Constraints:
+# - residual cells are allowed
+# - singletons are allowed
+# Solution format:
+# cell_1(cluster_1) rows - cell_1(cluster_1) columns
+# cell_2(cluster_2) rows - cell_2(cluster_2) columns
+# .....
+
+1  21 - 9  33
+2  15  19 - 13  14  36  27
+3  20 - 2  12  15  23  34
+4  7  14 - 11  28  25
+5  11 - 10  22
+6  8  18 - 18  26  30  38  4  5
+9 - 6  29  39  40
+10  12 - 20  24
+13  22 - 1  16  35
+16 - 8  19  21  37
+17 - 7  17  31
+23  24 - 3  32

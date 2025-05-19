@@ -1,0 +1,16 @@
+# Sarker and Khan(2001)
+# m = 8 p = 8
+# Grouping Efficacy  = 0.7222, Exact solution
+# Constraints:
+# - singletons are allowed
+# - residual cells are allowed
+# Solution format:
+# cell_1(cluster_1) rows - cell_1(cluster_1) columns
+# cell_2(cluster_2) rows - cell_2(cluster_2) columns
+# .....
+
+1  8 - 3  6
+2 - 1  4
+3  7 - 2
+4  5 - 5  8
+6 - 7

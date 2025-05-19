@@ -1,0 +1,19 @@
+# Viswanathan (1996)
+# m = 10 p = 12
+# Instance format:
+# machines_number parts_number
+# machine1 part_to_be_processed_1 part_to_be_processed_2 ...
+# machine2 part_to_be_processed_1 part_to_be_processed_2 ...
+# ...
+
+10 12
+1 4 5 6 7 8 11 12
+2 6 7 9
+3 4 6
+4 1 2 3 4
+5 1 2
+6 4 6 8 10 11
+7 5 6 7 8
+8 4 7 8 9 10 11 12
+9 2
+10 2 4 5 8 10 12

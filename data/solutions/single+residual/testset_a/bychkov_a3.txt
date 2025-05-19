@@ -1,0 +1,14 @@
+# Seifoddini(1989b)
+# m = 5 p = 18
+# Grouping Efficacy  = 0.8085, Exact solution
+# Constraints:
+# - residual cells are allowed
+# - singletons are allowed
+# Solution format:
+# cell_1(cluster_1) rows - cell_1(cluster_1) columns
+# cell_2(cluster_2) rows - cell_2(cluster_2) columns
+# .....
+
+1  4 - 1  2  3  5  6  8  11  12  13  14  16  17
+2  3  5 - 4  7  10  15  18
+EMPTY - 9
